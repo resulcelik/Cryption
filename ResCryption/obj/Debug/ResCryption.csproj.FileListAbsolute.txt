@@ -1,0 +1,11 @@
+C:\Users\drongo\source\repos\ResCryption\ResCryption\bin\Debug\ResCryption.exe.config
+C:\Users\drongo\source\repos\ResCryption\ResCryption\bin\Debug\ResCryption.exe
+C:\Users\drongo\source\repos\ResCryption\ResCryption\bin\Debug\ResCryption.pdb
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.csprojAssemblyReference.cache
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.Properties.Resources.resources
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.csproj.GenerateResource.cache
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.csproj.CoreCompileInputs.cache
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.exe
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.pdb
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.MainScreen.resources
+C:\Users\drongo\source\repos\ResCryption\ResCryption\obj\Debug\ResCryption.Password.resources
